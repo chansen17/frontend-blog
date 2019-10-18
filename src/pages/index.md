@@ -1,20 +1,21 @@
 ---
 templateKey: index-page
-title: FRONTEND WEB DEVELOPMENT
+title: WHY I HATE THE DENVER BRONCOS
 image: /img/blog-index.jpg
-heading: Hello world
-subheading: THE LEARNING PROCESS WITH A TOUCH OF CAFFIENE
+heading: Hello football fans!
+subheading: 'Why we should all hate the godamn denver broncos. '
 mainpitch:
-  title: Welcome Frontend Devs!
-  description: >
-    This blog will be about Frontend development and my learning process. I will
-    try to map out my learning trajectory, reach new goals, and update on what I
-    have learned including what I'm currently working on. 
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Let's talk about the donkies
+  description: >-
+    First off, the Denver Donkies are garbage. They dutch rudder in the locker
+    room. 
+
+
+    They drink apple cider on their off days.
+
+
+    They suck at football. 
+description: Details on why the Denver Broncos suck ass.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -44,27 +45,19 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: 'This blog will progress towards further reasons why we hate the donkies. '
+  description: Stay tuned for future updates.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: coming soon..
+  description: coming soon..
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/blog-index.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/flavor_wheel.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/products-grid2.jpg
 ---
 
